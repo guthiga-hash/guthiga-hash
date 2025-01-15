@@ -1,4 +1,4 @@
-👋 Hi, I’m @guthiga-hash
+👋 Hi, I’m Benedict Guthiga
 
 - 👀 I’m interested in full-stack web development, open-source projects, and innovative tech solutions.
 - 🌱 I’m currently learning  Software Enginneering & advanced JavaScript frameworks.
